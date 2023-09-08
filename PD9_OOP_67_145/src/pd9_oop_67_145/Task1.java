@@ -36,7 +36,6 @@ public class Task1 {
            System.out.println("\""+subString+"\" is not a part of this string"); 
         }
     }
-            ////function of word counter////
         public static int wordCounter(String s)
         {
             int count=1;
